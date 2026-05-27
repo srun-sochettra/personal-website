@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" width="100" height="120">
+  <!-- Egg body -->
+  <ellipse
+    cx="50" cy="65" rx="38" ry="48"
+    fill="#FAF6EE"
+    stroke="#D4A847"
+    stroke-width="4"
+  />
+  <!-- Eyes -->
+  <circle cx="38" cy="58" r="5" fill="#2C2416"/>
+  <circle cx="62" cy="58" r="5" fill="#2C2416"/>
+  <!-- Eye shine -->
+  <circle cx="40" cy="56" r="2" fill="#FAF6EE"/>
+  <circle cx="64" cy="56" r="2" fill="#FAF6EE"/>
+  <!-- Smile -->
+  <path
+    d="M 38 72 Q 50 82 62 72"
+    stroke="#2C2416"
+    stroke-width="3"
+    fill="none"
+    stroke-linecap="round"
+  />
+</svg>
