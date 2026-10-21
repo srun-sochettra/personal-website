@@ -258,9 +258,9 @@ The repository exists as a preserved record of that session — not just the cod
 
   // ── AI ─────────────────────────────────────
 
-  "ResearchAI": {
+  "SynapseDoc": {
     slug:        "research-ai",
-    repoName:    "Research-AI",
+    repoName:    "SynapseDoc",
     category:    "AI",
     featured:    false,
     demoUrl:     null,
@@ -329,7 +329,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["RPI---RFID-Access-Control-System"],
+    related:     ["pico-rfid-access-control"],
     screenshots: [],
     ogImage:     null,
   },
@@ -347,7 +347,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["RPI---RFID-Access-Control-System", "RPi-Pico-with-VS-Code"],
+    related:     ["pico-rfid-access-control", "RPi-Pico-with-VS-Code"],
     screenshots: [],
     ogImage:     null,
   },
@@ -365,14 +365,14 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["ARP---RC_Car", "RPI---RFID-Access-Control-System"],
+    related:     ["ARP---RC_Car", "pico-rfid-access-control"],
     screenshots: [],
     ogImage:     null,
   },
 
-  "RPI---RFID-Access-Control-System": {
+  "pico-rfid-access-control": {
     slug:        "rfid-access-control",
-    repoName:    "RPI---RFID-Access-Control-System",
+    repoName:    "pico-rfid-access-control",
     category:    "Hardware",
     featured:    false,
     demoUrl:     null,
@@ -403,7 +403,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Flutter---Nham24-Clone", "Flutter---Semester-2"],
+    related:     ["Flutter---Nham24-Clone", "flutter-course-semester-2"],
     screenshots: [],
     ogImage:     null,
   },
@@ -421,14 +421,14 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Disconime", "Flutter---Semester-1"],
+    related:     ["Disconime", "flutter-course-semester-1"],
     screenshots: [],
     ogImage:     null,
   },
 
-  "Flutter---Semester-1": {
+  "flutter-course-semester-1": {
     slug:        "flutter-semester-1",
-    repoName:    "Flutter---Semester-1",
+    repoName:    "flutter-course-semester-1",
     category:    "Mobile",
     featured:    false,
     demoUrl:     null,
@@ -439,14 +439,14 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Flutter---Semester-2", "Flutter---Nham24-Clone"],
+    related:     ["flutter-course-semester-2", "Flutter---Nham24-Clone"],
     screenshots: [],
     ogImage:     null,
   },
 
-  "Flutter---Semester-2": {
+  "flutter-course-semester-2": {
     slug:        "flutter-semester-2",
-    repoName:    "Flutter---Semester-2",
+    repoName:    "flutter-course-semester-2",
     category:    "Mobile",
     featured:    false,
     demoUrl:     null,
@@ -457,16 +457,16 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Flutter---Semester-1", "Disconime"],
+    related:     ["flutter-course-semester-1", "Disconime"],
     screenshots: [],
     ogImage:     null,
   },
 
   // ── JAVA ───────────────────────────────────
 
-  "Spring-Boot---API-Blog": {
+  "spring-boot-blog-api": {
     slug:        "spring-boot-api-blog",
-    repoName:    "Spring-Boot---API-Blog",
+    repoName:    "spring-boot-blog-api",
     category:    "Java",
     featured:    false,
     demoUrl:     null,
@@ -477,14 +477,14 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Basic-Thymeleaf", "Basic-SpringBoot"],
+    related:     ["spring-thymeleaf-basics", "spring-boot-basics"],
     screenshots: [],
     ogImage:     null,
   },
 
-  "Basic-Thymeleaf": {
+  "spring-thymeleaf-basics": {
     slug:        "basic-thymeleaf",
-    repoName:    "Basic-Thymeleaf",
+    repoName:    "spring-thymeleaf-basics",
     category:    "Java",
     featured:    false,
     demoUrl:     null,
@@ -495,14 +495,14 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Spring-Boot---API-Blog", "Basic-SpringBoot"],
+    related:     ["spring-boot-blog-api", "spring-boot-basics"],
     screenshots: [],
     ogImage:     null,
   },
 
-  "Basic-SpringBoot": {
+  "spring-boot-basics": {
     slug:        "basic-springboot",
-    repoName:    "Basic-SpringBoot",
+    repoName:    "spring-boot-basics",
     category:    "Java",
     featured:    false,
     demoUrl:     null,
@@ -513,7 +513,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Spring-Boot---JWT", "Spring-Boot---API-Blog"],
+    related:     ["Spring-Boot---JWT", "spring-boot-blog-api"],
     screenshots: [],
     ogImage:     null,
   },
@@ -531,7 +531,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Basic-SpringBoot", "Spring-Boot---API-Blog"],
+    related:     ["spring-boot-basics", "spring-boot-blog-api"],
     screenshots: [],
     ogImage:     null,
   },
@@ -549,7 +549,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Basic-SpringBoot", "Spring-Boot---API-Blog"],
+    related:     ["spring-boot-basics", "spring-boot-blog-api"],
     screenshots: [],
     ogImage:     null,
   },
@@ -567,7 +567,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Spring-Homework-002---Basic-REST-API-02", "Basic-SpringBoot"],
+    related:     ["Spring-Homework-002---Basic-REST-API-02", "spring-boot-basics"],
     screenshots: [],
     ogImage:     null,
   },
@@ -585,7 +585,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Spring-Homework-001---Basic-REST-API-01", "Spring-Boot---API-Blog"],
+    related:     ["Spring-Homework-001---Basic-REST-API-01", "spring-boot-blog-api"],
     screenshots: [],
     ogImage:     null,
   },
@@ -693,7 +693,7 @@ The repository exists as a preserved record of that session — not just the cod
     story:       null,
     highlights:  [],
     challenges:  { hard: [], different: [] },
-    related:     ["Java-Mini-Project-1---Stock-Management", "Basic-SpringBoot"],
+    related:     ["Java-Mini-Project-1---Stock-Management", "spring-boot-basics"],
     screenshots: [],
     ogImage:     null,
   },
